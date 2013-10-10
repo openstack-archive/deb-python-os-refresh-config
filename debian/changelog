@@ -1,0 +1,5 @@
+python-os-refresh-config (0.0.2-1) unstable; urgency=low
+
+  * Initial release. (Closes: #XXXXXX)
+
+ -- Thomas Goirand <zigo@debian.org>  Thu, 10 Oct 2013 18:54:27 +0800
