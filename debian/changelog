@@ -1,4 +1,4 @@
-python-os-refresh-config (0.0.2-1) unstable; urgency=low
+python-os-refresh-config (0.0.6-1) experimental; urgency=low
 
   * Initial release. (Closes: #XXXXXX)
 
