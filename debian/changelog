@@ -1,5 +1,5 @@
 python-os-refresh-config (0.0.6-1) experimental; urgency=low
 
-  * Initial release. (Closes: #XXXXXX)
+  * Initial release. (Closes: #732177)
 
  -- Thomas Goirand <zigo@debian.org>  Thu, 10 Oct 2013 18:54:27 +0800
