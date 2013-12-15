@@ -1,5 +1,6 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: os-refresh-config
+Upstream-Contact: OpenStack Development Mailing List <OpenStack-dev@lists.openstack.org>
 Source: http://github.com/openstack/os-refresh-config
 
 Files: debian/*
@@ -7,11 +8,8 @@ Copyright: (c) 2013, Thomas Goirand <zigo@debian.org>
 License: Apache-2
 
 Files: *
-Copyright: (c) 2013, OpenStack Fundation
-           (c) 2013, Tim Miller <tim.miller.0@gmail.com>
-           (c) 2013, Clint Byrum <clint@fewbar.com>
-           (c) 2013, Lucas Alvares Gomes <lucasagomes@gmail.com>
-           (c) 2013, Monty Taylor <mordred@inaugust.com>
+Copyright: (c) 2013, Hewlett-Packard Development Company, L.P.
+           (c) 2013, OpenStack Fundation
 License: Apache-2
 
 License: Apache-2

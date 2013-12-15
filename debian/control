@@ -28,9 +28,7 @@ Architecture: all
 Pre-Depends: dpkg (>= 1.15.6~)
 Depends: python-pbr (>= 0.5.21), ${misc:Depends}, ${python:Depends}
 Recommends: ${python:Recommends}
-Description: refresh system configuration
- Runs through all of the phases to ensure configuration is applied and
- enabled on a machine. Will exit with an error if any phase has a
- problem. Scripts should not depend on eachother having worked properly.
- Set OS_REFRESH_CONFIG_BASE_DIR environment variable to override the
- default
+Description: refresh system configuration of an OpenStack TripleO node
+ Runs through all of the phases to ensure configuration is applied and enabled
+ on a machine running a TripleO undercloud. Will exit with an error if any
+ phase has a problem.
