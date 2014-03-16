@@ -2,4 +2,4 @@ python-os-refresh-config (0.1.1-1) experimental; urgency=low
 
   * Initial release. (Closes: #732177)
 
- -- Thomas Goirand <zigo@debian.org>  Thu, 10 Oct 2013 18:54:27 +0800
+ -- Thomas Goirand <zigo@debian.org>  Sun, 16 Mar 2014 16:31:21 +0800
