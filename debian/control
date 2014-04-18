@@ -8,7 +8,7 @@ Uploaders: Julien Danjou <acid@debian.org>,
 Build-Depends: debhelper (>= 9),
                openstack-pkg-tools,
                python-all (>= 2.6.6-3~),
-               python-pbr (>= 0.5.21),
+               python-pbr (>= 0.6),
                python-setuptools,
                python-sphinx (>= 1.1.2)
 Build-Depends-Indep: python-babel (>= 1.3),
@@ -16,8 +16,8 @@ Build-Depends-Indep: python-babel (>= 1.3),
                      python-fixtures (>= 0.3.14),
                      python-subunit (>= 0.0.18),
                      python-testscenarios (>= 0.4),
-                     python-testtools (>= 0.9.32),
-                     testrepository (>= 0.0.17),
+                     python-testtools (>= 0.9.34),
+                     testrepository (>= 0.0.18),
                      subunit (>= 0.0.18)
 Standards-Version: 3.9.5
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=openstack/python-os-refresh-config.git
@@ -27,7 +27,7 @@ Homepage: http://github.com/openstack/os-refresh-config
 Package: python-os-refresh-config
 Architecture: all
 Pre-Depends: dpkg (>= 1.15.6~)
-Depends: python-pbr (>= 0.5.21), ${misc:Depends}, ${python:Depends}
+Depends: python-pbr (>= 0.6), ${misc:Depends}, ${python:Depends}
 Recommends: ${python:Recommends}
 Description: refresh system configuration of an OpenStack TripleO node
  Runs through all of the phases to ensure configuration is applied and enabled
