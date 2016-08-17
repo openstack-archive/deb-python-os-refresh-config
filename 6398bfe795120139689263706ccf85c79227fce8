@@ -1,0 +1,9 @@
+Code-Review+2: Steve Kowalik <steven@wedontsleep.org>
+Code-Review+2: Chris Jones <cmsj@tenshu.net>
+Workflow+1: Chris Jones <cmsj@tenshu.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 17 Nov 2014 10:43:25 +0000
+Reviewed-on: https://review.openstack.org/134778
+Project: openstack/deb-python-os-refresh-config
+Branch: refs/heads/master

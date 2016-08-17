@@ -1,0 +1,9 @@
+Code-Review+2: Emilien Macchi <emilien@redhat.com>
+Code-Review+2: Steven Hardy <shardy@redhat.com>
+Workflow+1: Steven Hardy <shardy@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 05 Jul 2016 15:58:30 +0000
+Reviewed-on: https://review.openstack.org/333641
+Project: openstack/deb-python-os-refresh-config
+Branch: refs/heads/master

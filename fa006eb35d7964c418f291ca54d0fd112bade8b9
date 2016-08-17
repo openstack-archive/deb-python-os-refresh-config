@@ -1,0 +1,10 @@
+Code-Review+2: Chris Jones <cmsj@tenshu.net>
+Code-Review+2: Ghe Rivero <ghe.rivero@gmail.com>
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Workflow+1: lifeless <robertc@robertcollins.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 25 Jul 2014 07:19:45 +0000
+Reviewed-on: https://review.openstack.org/108295
+Project: openstack/deb-python-os-refresh-config
+Branch: refs/heads/master

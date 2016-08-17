@@ -1,0 +1,11 @@
+Code-Review+1: Ryan Brady <rbrady@redhat.com>
+Code-Review+2: Jon-Paul Sullivan (j3p0uk) <j3p0uk@hotmail.com>
+Code-Review+2: Clint 'SpamapS' Byrum <clint@fewbar.com>
+Code-Review+2: Steve Kowalik <steven@wedontsleep.org>
+Workflow+1: Steve Kowalik <steven@wedontsleep.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 26 Sep 2014 11:30:42 +0000
+Reviewed-on: https://review.openstack.org/120645
+Project: openstack/deb-python-os-refresh-config
+Branch: refs/heads/master

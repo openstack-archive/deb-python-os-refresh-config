@@ -1,0 +1,10 @@
+Code-Review+2: James Slagle <jslagle@redhat.com>
+Code-Review+2: Derek Higgins <derekh@redhat.com>
+Code-Review+1: Dougal Matthews <dougal@redhat.com>
+Workflow+1: Derek Higgins <derekh@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 09 May 2014 11:24:56 +0000
+Reviewed-on: https://review.openstack.org/89667
+Project: openstack/deb-python-os-refresh-config
+Branch: refs/heads/master
