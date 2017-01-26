@@ -1,0 +1,8 @@
+Code-Review+2: Ben Nemec <openstack@nemebean.com>
+Workflow+1: Ben Nemec <openstack@nemebean.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 26 Jan 2017 16:56:22 +0000
+Reviewed-on: https://review.openstack.org/420924
+Project: openstack/deb-python-os-refresh-config
+Branch: refs/heads/master
